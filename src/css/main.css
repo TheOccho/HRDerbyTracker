@@ -1,0 +1,309 @@
+/** MESSAGING FOR TIE-BREAKERS **/
+body {background-color:grey;}
+
+#tracker-container ul#round-header {
+  margin: 0;
+  padding: 0;
+}
+
+#tracker-container ul#round-header li {
+  font-family: DerbyTrackerHeaderFont;
+  font-size: 11px;
+  color: #fff;
+  list-style: none;
+  float: left;
+  width: 95px;
+  height: 25px;
+  border-top: 4px solid rgba(0,0,0,0);
+  margin-right: 10px;
+  text-align: center;
+  padding-top: 6px;
+  cursor: pointer;
+}
+
+#tracker-container ul#round-header li.active, #tracker-container ul#round-header li.occurred:hover {
+  border-top: 4px solid #e22a56;
+}
+
+/** BRACKET **/
+
+#tracker-container #bracket-container {
+  position: absolute;
+  left: 87px;
+  top: 62px;
+}
+
+#tracker-container #bracket-container div.cell {
+  width: 26px;
+  height: 6px;
+  background-color: #959595;
+  margin-bottom: 4px;
+}
+
+#tracker-container #bracket-container div.cell.active {
+  background-color: #e22a56;
+}
+
+#tracker-container #bracket-container div.cell.batting {
+  background-color: #eeddb0;
+}
+
+#tracker-container #bracket-container div.round2.al {
+  position: absolute;
+  left: 34px;
+  top: 5px;
+}
+
+#tracker-container #bracket-container div.round2 div:first-child {
+  margin-bottom: 9px;
+}
+
+#tracker-container #bracket-container div.round3.al {
+  position: absolute;
+  left: 69px;
+  top: 13px;
+}
+
+#tracker-container #bracket-container div.round4 {
+  position: absolute;
+  left: 108px;
+  top: 13px;
+}
+
+#tracker-container #bracket-container div.round3.nl {
+  position: absolute;
+  left: 149px;
+  top: 13px;
+}
+
+#tracker-container #bracket-container div.round2.nl {
+  position: absolute;
+  left: 184px;
+  top: 5px;
+}
+
+#tracker-container #bracket-container div.round1.nl {
+  position: absolute;
+  left: 220px;
+  top: 0;
+}
+
+/** BATTER TABLE - ROUND 1 and 4 **/
+
+#tracker-container table#batters-table {
+  position: absolute;
+  top: 128px;
+  left: 20px;
+  width: 373px;
+  border-collapse: collapse;
+  font-family: mlb_primary,Arial Narrow,Arial,Helvetica,"Lucida Grande";
+}
+
+#tracker-container table#batters-table thead th {
+  color: #b0b0b0;
+  font-size: 12px;
+  text-align:right;
+}
+
+#tracker-container table#batters-table thead th.first, #tracker-container table#batters-table thead th.fourth {
+    font-family: DerbyTrackerHeaderFont;
+  font-size: 7px;
+  padding-left: 24px;
+  text-align: center;
+  width: 175px;
+}
+
+#tracker-container table#batters-table thead th.third {
+  width: 23px;
+}
+
+#tracker-container table#batters-table tbody td {
+  color: #d7d7d7;
+  border-bottom: 1px solid #d7d7d7;
+  padding: 10px 5px 5px;
+  font-size: 14px;
+}
+
+#tracker-container table#batters-table tbody tr.tiebreaker td {
+  border-bottom: none;
+  font-size: 12px;
+  padding: 6px 0 0 14px;
+}
+
+#tracker-container table#batters-table tbody td.spacer {
+  border-bottom: none;
+}
+
+#tracker-container table#batters-table tbody td.batting {
+  color: #e7dab3;
+}
+
+#tracker-container table#batters-table tbody td.hr {
+  width: 16px;
+  text-align: center;
+}
+
+#tracker-container table#batters-table td {
+  font-family: mlb_primary,Arial Narrow,Arial,Helvetica,"Lucida Grande";
+}
+
+/** BATTER TABLE - ROUND 2 AND 3 **/
+
+#tracker-container table#batters-table.round2 td.border-right, #tracker-container table#batters-table.round3 td.border-right {
+  border-right: 1px solid #d7d7d7;
+}
+
+#tracker-container table#batters-table.round2 td.border-left, #tracker-container table#batters-table.round3 td.border-left {
+  border-left: 1px solid #d7d7d7;
+}
+
+/** NOW BATTING **/
+
+#tracker-container #now-batting-container {
+  font-family: mlb_primary,Arial Narrow,Arial,Helvetica,"Lucida Grande";
+  left: 405px;
+  position: absolute;
+  width: 230px;
+}
+
+#tracker-container #now-batting-container table#batter-stats {
+  padding: 0 0 0 20px;
+  position: absolute;
+  top: 128px;
+  width: 220px;
+}
+
+#tracker-container #now-batting-container table#batter-stats td {
+  font-family:mlb_primary,Arial Narrow,Arial,Helvetica,"Lucida Grande" !important;
+    color: #d7d7d7 !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+}
+
+#tracker-container #now-batting-container table#batter-stats td:first-child {
+  width: 110px;
+}
+
+#tracker-container #now-batting-container span.title {
+  font-family: DerbyTrackerHeaderFont;
+  font-size: 11px;
+  color: #eeddb0;
+  left: 51px;
+  position: absolute;
+  top: 10px;
+}
+
+#tracker-container #now-batting-container #mugshot-container {
+  left: 0;
+  position: absolute;
+  top: 46px;
+}
+
+#tracker-container #now-batting-container img#team-logo {
+  position: absolute;
+  top:5px;
+  left:0px;
+}
+
+#tracker-container #now-batting-container img#mugshot {
+  left: 42px;
+  position: absolute;
+  top: 0;
+}
+
+#tracker-container #now-batting-container span#player-name {
+  color: #eeddb0;
+  font-size: 18px;
+  left: 115px;
+  position: absolute;
+  top: 14px;
+  width: 134px;
+}
+
+/** FIELD **/
+#field-view-container {
+  left: 689px;
+  position: absolute;
+}
+
+#field-view-container .title {
+  color: #fff;
+  font-family: DerbyTrackerHeaderFont;
+  font-size: 11px;
+  position: absolute;
+  top: 18px;
+  display: block;
+  width: 200px;
+  left: 60px;
+}
+
+#field-view-container #field-svg {
+  position: absolute;
+  width: 271px;
+  height: 271px;
+  left: -13px;
+  top: 65px;
+}
+
+#field-hits-container {
+  position: absolute;
+  top: 65px;
+  left: -20px;
+}
+
+#field-hits-container .hit-hover {
+  display: none;
+  background-color: #282828;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px #282828;
+  color: #fff;
+  font-family: mlb_primary,Arial Narrow,Arial,Helvetica,"Lucida Grande";
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 14px;
+  padding: 2px;
+  position: absolute;
+  text-align: center;
+  width: 56px;
+  z-index: 999;
+}
+
+#field-hits-container .hit {
+  color: #fff;
+  cursor: pointer;
+  font-size: 10px;
+  height: 19px;
+  padding-top: 4px;
+  position: absolute;
+  text-align: center;
+  width: 19px;
+  font-family: mlb_primary,Arial Narrow,Arial,Helvetica,"Lucida Grande";
+}
+
+#field-hits-container .hr {
+  background: url("http://mlb.mlb.com/mlb/components/events/all_star/y2014/hrderbytracker/src/images/hr.png") no-repeat 1px 0px ;
+}
+
+#field-hits-container .gold {
+  background:url("http://mlb.mlb.com/mlb/components/events/all_star/y2014/hrderbytracker/src/images/gold.png") no-repeat 1px 0px ;
+}
+
+#field-hits-container .out {
+  background:url("http://mlb.mlb.com/mlb/components/events/all_star/y2014/hrderbytracker/src/images/out.png") no-repeat 1px 0px ;
+}
+
+@font-face {
+    font-family:DerbyTrackerStatcastFont;
+  src:url(/shared/components/events/all_star/y2014/hrderbytracker/MLBN_Stratum.ttf);
+}
+
+@font-face {
+    font-family:DerbyTrackerGameAdFont;
+  src:url(/shared/components/events/all_star/y2014/hrderbytracker/GothamBlack.ttf);
+}
+
+@font-face {
+    font-family:DerbyTrackerHeaderFont;
+  src:url(data:font/ttf;base64,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) format('truetype');
+}

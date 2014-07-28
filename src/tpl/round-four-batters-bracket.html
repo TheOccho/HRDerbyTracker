@@ -1,0 +1,26 @@
+<table id="batters-table" class="round4">
+  <thead>
+    <th class="first">AMERICAN LEAGUE</th>
+    <th class="second"></th>
+    <th class="third"></th>
+    <th class="fourth">NATIONAL LEAGUE</th>
+    <th class="fifth"></th>
+  </thead>
+  <tbody>
+    <tr style="height:30px;"></tr>
+    <tr>
+      <td class="{{players.1.getIsBattingCSS}}">{{players.1.getAbbrevName}} | {{players.1.getTeamAbbrev}}</td>
+      <td class="{{players.1.getIsBattingCSS}}">{{players.1.getTotalHomerunsForBracket}}</td>
+      <td class="spacer"></td>
+      <td class="{{players.0.getIsBattingCSS}}">{{players.0.getAbbrevName}} | {{players.0.getTeamAbbrev}}</td>
+      <td class="{{players.0.getIsBattingCSS}}">{{players.0.getTotalHomerunsForBracket}}</td>
+    </tr>
+    <tr class="tiebreaker">
+      <td style="display:{{players.1.getTiebreakerCSS}}">{{players.1.getTiebreakers}}</td>
+      <td></td>
+      <td class="spacer"></td>
+      <td style="display:{{players.0.getTiebreakerCSS}}">{{players.0.getTiebreakers}}</td>
+      <td></td>
+    <tr>
+  </tbody>
+</table>

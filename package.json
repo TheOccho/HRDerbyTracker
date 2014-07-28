@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "hrderbytracker",
+    "title": "hrderbytracker",
+    "description": "hrderbytracker",
+    "version": "0.0.0",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "bam.grunt.tasks": "git+ssh://git@github.mlbam.net/fed-tools/bam-grunt-tasks.git",
+        "bower": "~1.x"
+    },
+    "scripts": {
+        "postinstall": "bower install"
+    }
+}

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<derby date="20140714" sportcode="mlb" venue_id="3312" venue_name="Target Field" venue_city="Minneapolis" venue_state="MN" venue_country="USA">
+  <state mode="post" currentRound="4" tiebreaker_in_progress="false" tiebreaker_num="0">
+    <round number="1" tiebreaker="y" tiebreaker_num="2" cumulative_set="1" isCurrent="false">
+      <player id="453943" order="1" batting="n" league="NL">
+        <swing number="1" result="out" x="125" y="193" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="106" y="50" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="119" y="188" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="out" x="63" y="124" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="hr" x="80" y="28" distance="427" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="6" result="out" x="48" y="114" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="hr" x="32" y="61" distance="358" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="8" result="out" x="72" y="104" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="9" result="out" x="133" y="201" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="572821" order="2" batting="n" league="AL">
+        <swing number="1" result="out" x="188" y="135" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="91" y="158" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="51" y="93" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="hr" x="36" y="56" distance="372" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="5" result="out" x="151" y="151" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="out" x="4" y="109" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="hr" x="10" y="75" distance="352" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="8" result="out" x="52" y="109" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="9" result="out" x="71" y="104" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="453064" order="3" batting="n" league="NL">
+        <swing number="1" result="out" x="54" y="78" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="57" y="112" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="hr" x="31" y="68" distance="358" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="4" result="out" x="86" y="61" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="53" y="121" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="out" x="34" y="114" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="hr" x="37" y="56" distance="366" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="8" result="hr" x="61" y="27" distance="402" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="9" result="out" x="84" y="92" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="10" result="hr" x="2" y="65" distance="402" description="null" bat_side="null" location="LF" golden_ball="y"/>
+        <swing number="11" result="out" x="74" y="70" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="430832" order="4" batting="n" league="AL">
+        <swing number="1" result="out" x="106" y="50" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="hr" x="57" y="23" distance="428" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="3" result="hr" x="29" y="57" distance="367" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="4" result="hr" x="44" y="20" distance="409" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="5" result="hr" x="41" y="26" distance="404" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="6" result="out" x="75" y="79" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="out" x="58" y="115" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="hr" x="29" y="44" distance="378" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="9" result="hr" x="19" y="54" distance="377" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="10" result="hr" x="46" y="38" distance="383" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="11" result="out" x="85" y="86" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="12" result="hr" x="18" y="41" distance="418" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="13" result="out" x="116" y="187" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="14" result="hr" x="25" y="66" distance="356" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="15" result="out" x="40" y="103" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="16" result="hr" x="16" y="63" distance="370" description="null" bat_side="null" location="LF" golden_ball="y"/>
+      </player>
+      <player id="624577" order="5" batting="n" league="NL">
+        <swing number="1" result="out" x="128" y="188" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="89" y="60" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="65" y="80" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="out" x="175" y="64" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="141" y="190" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="out" x="104" y="52" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="out" x="0" y="107" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="430945" order="6" batting="n" league="AL">
+        <swing number="1" result="out" x="101" y="80" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="hr" x="78" y="30" distance="426" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="3" result="out" x="2" y="108" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="hr" x="13" y="68" distance="354" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="5" result="hr" x="54" y="32" distance="395" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="6" result="out" x="74" y="90" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="out" x="72" y="125" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="out" x="84" y="156" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="9" result="hr" x="23" y="55" distance="370" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="10" result="out" x="0" y="102" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="11" result="out" x="54" y="84" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="519317" order="7" batting="n" league="NL">
+        <swing number="1" result="hr" x="86" y="23" distance="404" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="2" result="out" x="165" y="119" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="hr" x="64" y="47" distance="381" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="4" result="out" x="75" y="86" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="hr" x="48" y="26" distance="400" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="6" result="out" x="140" y="188" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="hr" x="111" y="5" distance="430" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="8" result="out" x="144" y="214" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="9" result="out" x="43" y="100" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="10" result="hr" x="133" y="15" distance="413" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="11" result="out" x="123" y="190" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="12" result="hr" x="21" y="37" distance="422" description="null" bat_side="null" location="LF" golden_ball="y"/>
+        <swing number="13" result="out" x="137" y="68" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="518626" order="8" batting="n" league="AL">
+        <swing number="1" result="out" x="130" y="201" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="119" y="187" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="141" y="191" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="out" x="59" y="80" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="hr" x="58" y="39" distance="388" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="6" result="out" x="60" y="89" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="out" x="39" y="137" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="hr" x="74" y="31" distance="406" description="null" bat_side="null" location="CF" golden_ball="y"/>
+        <swing number="9" result="hr" x="12" y="77" distance="344" description="null" bat_side="null" location="LF" golden_ball="y"/>
+        <swing number="10" result="out" x="77" y="150" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="408047" order="9" batting="n" league="NL">
+        <swing number="1" result="out" x="175" y="114" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="211" y="102" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="180" y="96" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="hr" x="222" y="38" distance="409" description="null" bat_side="null" location="RF" golden_ball="n"/>
+        <swing number="5" result="out" x="189" y="101" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="out" x="205" y="126" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="out" x="162" y="98" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="hr" x="235" y="57" distance="393" description="null" bat_side="null" location="RF" golden_ball="y"/>
+        <swing number="9" result="out" x="200" y="84" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="493316" order="10" batting="y" league="AL">
+        <swing number="1" result="out" x="80" y="82" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="hr" x="5" y="78" distance="343" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="3" result="out" x="51" y="147" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="out" x="147" y="74" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="88" y="96" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="hr" x="73" y="29" distance="418" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="7" result="out" x="173" y="63" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="out" x="55" y="118" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="9" result="hr" x="24" y="71" distance="354" description="null" bat_side="null" location="LF" golden_ball="y"/>
+        <swing number="10" result="out" x="46" y="90" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <tiebreakers>
+        <tiebreaker tiebreaker_num="1" num_players="2">
+          <player id="453943" order="1" batting="n" league="NL">
+            <swing number="1" result="out" x="124" y="191" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+            <swing number="2" result="out" x="115" y="180" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+            <swing number="3" result="hr" x="34" y="58" distance="383" description="null" bat_side="null" location="LF" golden_ball="n"/>
+          </player>
+          <player id="408047" order="2" batting="y" league="NL">
+            <swing number="1" result="out" x="174" y="109" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+            <swing number="2" result="out" x="146" y="88" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+            <swing number="3" result="out" x="146" y="117" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+          </player>
+        </tiebreaker>
+        <tiebreaker tiebreaker_num="2" num_players="2">
+          <player id="518626" order="1" batting="n" league="AL">
+            <swing number="1" result="out" x="134" y="86" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+            <swing number="2" result="out" x="121" y="193" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+            <swing number="3" result="hr" x="46" y="33" distance="427" description="null" bat_side="null" location="LF" golden_ball="n"/>
+          </player>
+          <player id="493316" order="2" batting="y" league="AL">
+            <swing number="1" result="hr" x="44" y="37" distance="428" description="null" bat_side="null" location="LF" golden_ball="n"/>
+            <swing number="2" result="hr" x="51" y="17" distance="428" description="null" bat_side="null" location="LF" golden_ball="n"/>
+          </player>
+        </tiebreaker>
+      </tiebreakers>
+    </round>
+    <round number="2" tiebreaker="n" tiebreaker_num="0" cumulative_set="1" isCurrent="false">
+      <player id="519317" order="1" batting="n" league="NL"/>
+      <player id="430832" order="2" batting="n" league="AL"/>
+      <player id="453943" order="3" batting="n" league="NL">
+        <swing number="1" result="out" x="82" y="57" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="124" y="42" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="hr" x="131" y="14" distance="410" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="4" result="out" x="84" y="90" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="185" y="63" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="out" x="124" y="70" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="hr" x="37" y="36" distance="370" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="8" result="hr" x="72" y="26" distance="406" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="9" result="hr" x="47" y="41" distance="376" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="10" result="hr" x="168" y="16" distance="412" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="11" result="out" x="66" y="122" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="12" result="hr" x="72" y="11" distance="415" description="null" bat_side="null" location="CF" golden_ball="y"/>
+        <swing number="13" result="out" x="57" y="92" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="453064" order="4" batting="n" league="NL">
+        <swing number="1" result="out" x="40" y="106" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="hr" x="32" y="49" distance="417" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="3" result="out" x="54" y="92" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="out" x="0" y="94" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="64" y="81" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="out" x="63" y="95" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="out" x="55" y="75" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="hr" x="13" y="60" distance="362" description="null" bat_side="null" location="LF" golden_ball="y"/>
+        <swing number="9" result="out" x="74" y="105" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="493316" order="5" batting="n" league="AL">
+        <swing number="1" result="out" x="64" y="102" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="hr" x="55" y="30" distance="393" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="3" result="out" x="91" y="59" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="hr" x="34" y="47" distance="372" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="5" result="out" x="192" y="135" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="hr" x="77" y="22" distance="406" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="7" result="out" x="90" y="86" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="hr" x="69" y="27" distance="416" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="9" result="out" x="163" y="163" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="10" result="hr" x="46" y="38" distance="385" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="11" result="hr" x="53" y="48" distance="391" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="12" result="hr" x="37" y="33" distance="379" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="13" result="out" x="52" y="115" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="14" result="hr" x="1" y="61" distance="415" description="null" bat_side="null" location="LF" golden_ball="y"/>
+        <swing number="15" result="hr" x="122" y="13" distance="411" description="null" bat_side="null" location="CF" golden_ball="y"/>
+        <swing number="16" result="out" x="106" y="48" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="430945" order="6" batting="y" league="AL">
+        <swing number="1" result="hr" x="31" y="53" distance="382" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="2" result="out" x="72" y="83" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="0" y="107" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="hr" x="48" y="33" distance="393" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="5" result="out" x="46" y="98" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="hr" x="32" y="61" distance="364" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="7" result="out" x="71" y="112" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="out" x="124" y="214" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="9" result="out" x="85" y="98" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="10" result="out" x="6" y="114" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <tiebreakers/>
+    </round>
+    <round number="3" tiebreaker="n" tiebreaker_num="0" cumulative_set="2" isCurrent="false">
+      <player id="453943" order="1" batting="n" league="NL">
+        <swing number="1" result="out" x="76" y="120" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="52" y="111" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="122" y="45" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="hr" x="29" y="54" distance="365" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="5" result="out" x="76" y="94" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="out" x="182" y="106" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="out" x="73" y="70" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="out" x="129" y="199" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="519317" order="2" batting="n" league="NL">
+        <swing number="1" result="out" x="123" y="79" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="175" y="79" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="138" y="174" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="out" x="154" y="56" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="69" y="73" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="out" x="170" y="53" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="7" result="out" x="88" y="111" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="493316" order="3" batting="n" league="AL">
+        <swing number="1" result="hr" x="23" y="69" distance="358" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="2" result="out" x="45" y="104" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="hr" x="62" y="25" distance="428" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="4" result="out" x="54" y="122" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="hr" x="29" y="24" distance="447" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="6" result="hr" x="39" y="57" distance="358" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="7" result="hr" x="161" y="23" distance="413" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="8" result="out" x="52" y="77" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="9" result="hr" x="117" y="11" distance="415" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="10" result="hr" x="50" y="30" distance="399" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="11" result="out" x="157" y="87" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="12" result="out" x="159" y="42" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="13" result="out" x="104" y="66" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="14" result="out" x="69" y="117" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="430832" order="4" batting="y" league="AL">
+        <swing number="1" result="out" x="48" y="107" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="56" y="82" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="hr" x="56" y="24" distance="409" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="4" result="out" x="59" y="99" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="64" y="110" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="hr" x="19" y="46" distance="419" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="7" result="hr" x="43" y="40" distance="384" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="8" result="out" x="119" y="193" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="9" result="hr" x="76" y="28" distance="424" description="null" bat_side="null" location="CF" golden_ball="n"/>
+        <swing number="10" result="out" x="81" y="65" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="11" result="out" x="45" y="94" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <tiebreakers/>
+    </round>
+    <round number="4" tiebreaker="n" tiebreaker_num="0" cumulative_set="3" isCurrent="true">
+      <player id="453943" order="1" batting="y" league="NL">
+        <swing number="1" result="out" x="96" y="49" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="2" result="out" x="72" y="102" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="out" x="96" y="114" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="4" result="out" x="106" y="87" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="55" y="90" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="hr" x="42" y="40" distance="393" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="7" result="out" x="63" y="73" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="8" result="out" x="125" y="100" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <player id="493316" order="2" batting="n" league="AL">
+        <swing number="1" result="hr" x="48" y="35" distance="409" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="2" result="out" x="63" y="94" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="3" result="hr" x="26" y="41" distance="420" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="4" result="out" x="53" y="119" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="5" result="out" x="46" y="99" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="6" result="hr" x="33" y="23" distance="446" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="7" result="hr" x="35" y="53" distance="396" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="8" result="hr" x="21" y="59" distance="377" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="9" result="out" x="56" y="101" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="10" result="hr" x="15" y="49" distance="380" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="11" result="hr" x="49" y="19" distance="452" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="12" result="out" x="76" y="83" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="13" result="hr" x="10" y="65" distance="422" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="14" result="hr" x="37" y="39" distance="381" description="null" bat_side="null" location="LF" golden_ball="n"/>
+        <swing number="15" result="out" x="65" y="104" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+        <swing number="16" result="out" x="38" y="107" distance="0" description="null" bat_side="null" location="" golden_ball="n"/>
+      </player>
+      <tiebreakers/>
+    </round>
+  </state>
+  <roster>
+    <player id="453943" name_first="Todd" name_last="Frazier" name_display="Todd Frazier" team_id="113" team_file_code="cin" team_abbrev="CIN" bat_order="1" bats="R" batting="n" winner="n" last_hr="393" long_hr="427" avg_hr="392" rank="2" league="NL" name_use="Todd"/>
+    <player id="430832" name_first="Jose" name_last="Bautista" name_display="Jose Bautista" team_id="141" team_file_code="tor" team_abbrev="TOR" bat_order="4" bats="R" batting="n" winner="n" last_hr="424" long_hr="428" avg_hr="394" rank="3" league="AL" name_use="Jose"/>
+    <player id="408047" name_first="Justin" name_last="Morneau" name_display="Justin Morneau" team_id="115" team_file_code="col" team_abbrev="COL" bat_order="9" bats="L" batting="n" winner="n" last_hr="393" long_hr="409" avg_hr="401" rank="9" league="NL" name_use="Justin"/>
+    <player id="493316" name_first="Yoenis" name_last="Cespedes" name_display="Yoenis Cespedes" team_id="133" team_file_code="oak" team_abbrev="OAK" bat_order="2" bats="R" batting="n" winner="y" last_hr="381" long_hr="452" avg_hr="401" rank="1" league="AL" name_use="Yoenis"/>
+    <player id="624577" name_first="Yasiel" name_last="Puig" name_display="Yasiel Puig" team_id="119" team_file_code="la" team_abbrev="LAD" bat_order="5" bats="R" batting="n" winner="n" last_hr="0" long_hr="0" avg_hr="0" rank="10" league="NL" name_use="Yasiel"/>
+    <player id="518626" name_first="Joshua" name_last="Donaldson" name_display="Josh Donaldson" team_id="133" team_file_code="oak" team_abbrev="OAK" bat_order="8" bats="R" batting="n" winner="n" last_hr="344" long_hr="427" avg_hr="391" rank="8" league="AL" name_use="Josh"/>
+    <player id="519317" name_first="Giancarlo" name_last="Stanton" name_display="Giancarlo Stanton" team_id="146" team_file_code="mia" team_abbrev="MIA" bat_order="2" bats="R" batting="n" winner="n" last_hr="422" long_hr="430" avg_hr="408" rank="4" league="NL" name_use="Giancarlo"/>
+    <player id="572821" name_first="James" name_last="Dozier" name_display="Brian Dozier" team_id="142" team_file_code="min" team_abbrev="MIN" bat_order="2" bats="R" batting="n" winner="n" last_hr="352" long_hr="372" avg_hr="362" rank="7" league="AL" name_use="Brian"/>
+    <player id="453064" name_first="Troy" name_last="Tulowitzki" name_display="Troy Tulowitzki" team_id="115" team_file_code="col" team_abbrev="COL" bat_order="4" bats="R" batting="n" winner="n" last_hr="362" long_hr="417" avg_hr="384" rank="6" league="NL" name_use="Troy"/>
+    <player id="430945" name_first="Adam" name_last="Jones" name_display="Adam Jones" team_id="110" team_file_code="bal" team_abbrev="BAL" bat_order="6" bats="R" batting="n" winner="n" last_hr="364" long_hr="426" avg_hr="383" rank="5" league="AL" name_use="Adam"/>
+  </roster>
+</derby>

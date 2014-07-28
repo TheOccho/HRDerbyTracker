@@ -1,0 +1,20 @@
+<span class="title">{{translator.getNowBatting}}</span>
+<div id="mugshot-container">
+  <img id="team-logo" width="80" height="70" border="0" src="http://mlb.mlb.com/mlb/components/events/all_star/y2014/hrderbytracker/src/images/team_logos/{{currentBatter.getTeamAbbrevLowerCase}}.png">
+  <img id="mugshot" width="68" height="68" border="0" src="http://mlb.mlb.com/images/players/assets/68_{{currentBatter.getPlayerID}}.png">
+  <span id="player-name">{{currentBatter.getDisplayName}}</span>
+</div>
+<table id="batter-stats">
+  <tr>
+    <td>{{translator.getLast}}: {{currentBatter.getLastHR}}</td>
+    <td>{{translator.getTotalHRs}}: {{currentBatter.getTotalHomeruns}}</td>
+  </tr>
+  <tr>
+    <td>{{translator.getLongest}}: {{currentBatter.getLongHR}}</td>
+    <td>{{translator.getOuts}}: {{currentBatter.getTotalOuts}}</td>
+  </tr>
+  <tr>
+    <td>{{translator.getAverage}}: {{currentBatter.getAverageHR}}</td>
+    <td></td>
+  </tr>
+</table>

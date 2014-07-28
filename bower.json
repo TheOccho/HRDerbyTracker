@@ -1,0 +1,17 @@
+{
+  "name": "HRDerbyTracker2014",
+  "version": "1.0.0",
+  "main": "src/js/main.js",
+  "devDependencies": {
+    "ensureArray": "~1.0.0",
+    "paperboy": "~1.3.2",
+    "xml2json": "~1.0.0",
+    "jquery": "~1.3.0"
+  },
+  "dependencies": {
+    "bam.requirejs.configs": "~1.0.7"
+  },
+  "resolutions": {
+    "jquery": "~1.9.1"
+  }
+}

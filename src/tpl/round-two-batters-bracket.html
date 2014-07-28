@@ -1,0 +1,61 @@
+<table id="batters-table" class="round2">
+  <thead>
+    <th class="first">AMERICAN LEAGUE</th>
+    <th class="second"></th>
+    <th class="third"></th>
+    <th class="fourth">NATIONAL LEAGUE</th>
+    <th class="fifth"></th>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="{{players.1.getIsBattingCSS}}">{{players.1.getAbbrevName}} | {{players.1.getTeamAbbrev}}</td>
+      <td class="{{players.1.getIsBattingCSS}}">{{players.1.getTotalHomerunsForBracket}}</td>
+      <td class="spacer"></td>
+      <td class="{{players.0.getIsBattingCSS}}">{{players.0.getAbbrevName}} | {{players.0.getTeamAbbrev}}</td>
+      <td class="{{players.0.getIsBattingCSS}}">{{players.0.getTotalHomerunsForBracket}}</td>
+    </tr>
+    <tr class="tiebreaker">
+      <td style="visibility:{{players.1.getTiebreakerCSS}}">{{players.0.getTiebreakers}}</td>
+      <td style="visibility:{{players.1.getTiebreakerCSS}}"></td>
+      <td class="spacer border-left border-right"></td>
+      <td style="visibility:{{players.0.getTiebreakerCSS}}">{{players.0.getTiebreakers}}</td>
+      <td style="visibility:{{players.0.getTiebreakerCSS}}"></td>
+    <tr>
+    <tr>
+      <td>BYE</td>
+      <td class="border-right"></td>
+      <td class="spacer"></td>
+      <td class="border-left">BYE</td>
+      <td></td>
+    </tr>
+    <tr style="height:20px;"></tr>
+    <tr>
+      <td class="{{players.4.getIsBattingCSS}}">{{players.4.getAbbrevName}} | {{players.4.getTeamAbbrev}}</td>
+      <td class="{{players.4.getIsBattingCSS}}">{{players.4.getTotalHomerunsForBracket}}</td>
+      <td class="spacer"></td>
+      <td class="{{players.2.getIsBattingCSS}}">{{players.2.getAbbrevName}} | {{players.2.getTeamAbbrev}}</td>
+      <td class="{{players.2.getIsBattingCSS}}">{{players.2.getTotalHomerunsForBracket}}</td>
+    </tr>
+    <tr class="tiebreaker">
+      <td style="visibility:{{players.4.getTiebreakerCSS}}">{{players.4.getTiebreakers}}</td>
+      <td style="visibility:{{players.4.getTiebreakerCSS}}"></td>
+      <td class="spacer border-left border-right"></td>
+      <td style="visibility:{{players.2.getTiebreakerCSS}}">{{players.2.getTiebreakers}}</td>
+      <td style="visibility:{{players.2.getTiebreakerCSS}}"></td>
+    <tr>
+    <tr>
+      <td class="{{players.5.getIsBattingCSS}}">{{players.5.getAbbrevName}} | {{players.5.getTeamAbbrev}}</td>
+      <td class="{{players.5.getIsBattingCSS}} border-right">{{players.5.getTotalHomerunsForBracket}}</td>
+      <td class="spacer"></td>
+      <td class="{{players.3.getIsBattingCSS}} border-left">{{players.3.getAbbrevName}} | {{players.3.getTeamAbbrev}}</td>
+      <td class="{{players.3.getIsBattingCSS}}">{{players.3.getTotalHomerunsForBracket}}</td>
+    </tr>
+    <tr class="tiebreaker">
+      <td style="visibility:{{players.5.getTiebreakerCSS}}">{{players.5.getTiebreakers}}</td>
+      <td style="visibility:{{players.5.getTiebreakerCSS}}"></td>
+      <td class="spacer"></td>
+      <td style="visibility:{{players.3.getTiebreakerCSS}}">{{players.3.getTiebreakers}}</td>
+      <td style="visibility:{{players.3.getTiebreakerCSS}}"></td>
+    <tr>
+  </tbody>
+</table>

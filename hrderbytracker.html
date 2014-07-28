@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+<title>HR Derby Tracker 2014 Test Page</title>
+<link rel="stylesheet" type="text/css" href="src/css/main.css" />
+<script type="text/javascript" src="bower_components/requirejs/require.js"></script>
+<script type="text/javascript" src="bower_components/jquery/jquery.js"></script>
+<script type="text/javascript">
+
+requirejs.config({
+  baseUrl: "bower_components",
+  paths: {
+    "tpl": "../src/tpl"
+  }
+});
+
+// KICKOFF THE APP
+requirejs(["bam.requirejs.configs/config", "../src/js/main"], function(configs, main) {
+	main.init("#tracker", "src/xml/derby_data_new.xml");
+});
+
+/*require(["main-startup"], function(main) {
+   main.init("#tracker", "/gdcross/mlb/events/hrderby/y2014/derby_data.xml");
+});*/
+</script>
+	
+</head>
+<body>
+<div id="tracker"></div>
+</body>
+</html>
